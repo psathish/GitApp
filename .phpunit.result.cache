@@ -1,0 +1,1 @@
+{"version":1,"defects":{"Tests\\Unit\\TaskTest::test_task_rendering":8},"times":{"Tests\\Unit\\ExampleTest::test_that_true_is_true":0.758,"Tests\\Unit\\TaskTest::test_task_rendering":0.159,"Tests\\Feature\\ExampleTest::test_the_application_returns_a_successful_response":1.564}}
